@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I post only my best work on my account
 
 <div style="display: flex; flex-direction: row; align-items: flex-end; flex-wrap: nowrap;">
-    <img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chopsqd&theme=default" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=chopsqd&theme=default&show_icons=true" />
     <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopsqd&layout=compact&hide=hack" />
 </div>
                                                                                                                                
