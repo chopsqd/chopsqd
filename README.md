@@ -5,10 +5,12 @@
 - 💬 Ask me about anything on social media
 - ⚡ Fun fact: I post only my best work on my account
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopsqd&layout=compact&hide=hack" />
- <img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chopsqd&theme=default" />
-</div>
+<a href="https://github.com/chopsqd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chopsqd&layout=compact&hide=hack" />
+</a>
+<a href="https://github.com/chopsqd">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chopsqd&theme=default" />
+</a>
                                                                                                                                
 ## My stack
 
@@ -49,4 +51,5 @@
     <img class="img" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img class="img" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
 </div>
+
 
