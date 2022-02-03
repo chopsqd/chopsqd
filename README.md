@@ -1,8 +1,7 @@
 ## Hi there, I'm Michael - Web Developer 👋 
 
 - 🔭 I’m currently learning web development
-- 🤔 I’m looking for help help with employment
-- 💬 Ask me about anything on social media
+- 💬 Ask me about anything about frontend
 - ⚡ Fun fact: I post only my best work on my account
 
 <div style="display: flex; flex-direction: row; align-items: flex-end; flex-wrap: nowrap;">
