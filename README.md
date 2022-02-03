@@ -1,4 +1,4 @@
-### Hi there, I'm Michael - Web Developer 👋 
+## Hi there, I'm Michael - Web Developer 👋 
 
 - 🔭 I’m currently learning web development
 - 🤔 I’m looking for help help with employment
@@ -10,9 +10,9 @@
  <img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chopsqd&theme=default" />
 </div>
                                                                                                                                
-### My stack
+## My stack
 
-# Website layouts  
+### Website layouts  
 
 <div style="display: flex;">
     <img class="img" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,15 +25,28 @@
 </div>
                                                                                                                          
 
-# Web Applications 
+### Web Applications 
 
 <div style="display: flex;">
     <img class="img" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
     <img class="img" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
+</div>
+
+### Additionally
+
+<div style="display: flex;">
+    <img class="img" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" /> 
+    <img class="img" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
+    <img class="img" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img class="img" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
 </div>
 
