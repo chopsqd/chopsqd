@@ -1,8 +1,8 @@
 ## Hi there, I'm Michael - Web Developer 👋 
 
 - 🔭 I’m currently learning web development
-- 💬 Ask me about anything about frontend
-- ⚡ Fun fact: I post only my best work on my account
+- 💬 Ask me about anything about JavaScript
+- ⚡ Fun fact: I post only my best works on my account
 
 <div style="display: flex; flex-direction: row; align-items: flex-end; flex-wrap: nowrap;">
     <img class="img" src="https://github-readme-stats.vercel.app/api?username=chopsqd&theme=default&show_icons=true" />
@@ -47,6 +47,7 @@
     <img class="img" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img class="img" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /> 
 </div>
 
 
