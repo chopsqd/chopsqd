@@ -29,10 +29,11 @@
 <div style="display: flex;">
     <img class="img" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img class="img" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-    <img class="img" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/Mobx-orange?style=for-the-badge&logo=mobx&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> 
     <img class="img" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
 </div>
 
 
