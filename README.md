@@ -20,7 +20,7 @@
     <img class="img" src="https://img.shields.io/badge/motion-%23ED2B88.svg?style=for-the-badge&logo=framer&logoColor=white" />
     <img class="img" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img class="img" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/shadcnui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" /> 
 </div>
                                                                                                                          
 
@@ -66,12 +66,12 @@
 ### Basic knowledge
 
 <div style="display: flex;">
-    <img class="img" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/Story-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /> 
-    <img class="img" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img class="img" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/sourcetree-%230070D1?style=for-the-badge&logo=sourcetree&logoColor=white" />
+    <img class="img" src="https://img.shields.io/badge/CI/CD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img class="img" src="https://img.shields.io/badge/Story-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /> 
+    <img class="img" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+    <img class="img" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
     <img class="img" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-    <img class="img" src="https://img.shields.io/badge/three-black?style=for-the-badge&logo=three.js&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/uml-ff9900.svg?style=for-the-badge&logo=uml&logoColor=white" />
+    <img class="img" src="https://img.shields.io/badge/three-FFF200?style=for-the-badge&logo=three.js&logoColor=black" />
 </div>
